@@ -343,7 +343,9 @@ Hello, Kubernetes!
 ```
 #  Deployment Strategy
 
-![[66ca3b2d-d471-4a00-bbea-fe1e4a44aa4f 1.png]]![[221ad4a3-e48d-4f76-95dc-3e3184fffc52.png]]
+![pic](images/RecreateStratgy.png)
+![pic](images/RollingStratgy.png)
+
 # Lab
 # Create Rolling Update Deployment YAML
 
@@ -501,8 +503,7 @@ Output:
 ```text
 deployment.apps/recreate-demo image updated
 ```
-![[435a5935-241f-493e-ae30-07eb42fc0a0d.png]]
-
+![pic](images/435a5935-241f-493e-ae30-07eb42fc0a0d.png)
 # ReplicaSet Scaling vs Deployment Strategy
 
 No — adding Pods in a ReplicaSet is **not considered a deployment strategy** by itself.
