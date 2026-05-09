@@ -30,5 +30,5 @@ minikube/
 
 # Images or private files
 private/
-K8sProject.md
+
 ```
