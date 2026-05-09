@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8sProject.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K8sProject"
+              "title": "README"
             }
           }
         ],
@@ -200,12 +200,14 @@
   },
   "active": "318aa77374581b98",
   "lastOpenFiles": [
+    "K8sProject.md",
+    "Untitled.md",
+    "New Text Document.txt",
     "README.md",
     "L17.md",
     "images/pvpvc.png",
     "L16.md",
     "images/KubernetesVolumeExplanation.md",
-    "K8sProject.md",
     "Untitled",
     "#KubernetesVolumeExplanation.md",
     "Untitled.base",
@@ -230,7 +232,6 @@
     "2026-05-05.md",
     "lecture 16 k8s",
     "Untitled 1.base",
-    "Welcome.md",
-    "K8s"
+    "Welcome.md"
   ]
 }
