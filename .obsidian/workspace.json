@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1-2.md",
+                "file": "L7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L1-2"
+              "title": "L7"
             }
           }
         ]
@@ -185,6 +185,11 @@
   },
   "active": "289c875819d8a82d",
   "lastOpenFiles": [
+    "images/docker_component.png",
+    "images/docker_component.png.fdmdownload",
+    "L3.md",
+    "L7.md",
+    "L1-2.md",
     "file system exam (1).pdf",
     "file system exam.pdf",
     "images/Linux_file_hierarchy.png",
@@ -200,15 +205,12 @@
     "images/DevopsCourses.png",
     "images/DevopsCourses.png.fdmdownload",
     "L17.md",
-    "L1-2.md",
     "L21",
     "Untitled.base",
     "L16.md",
     "private/K8sProject.md",
     "install K8s.md",
     "README.md",
-    "private",
-    "New folder",
     "K8sProject.md",
     "images/pvpvc.png",
     "images/KubernetesVolumeExplanation.md",
